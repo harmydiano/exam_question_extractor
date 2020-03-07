@@ -1,0 +1,2015 @@
+exam_id @@@1@@@
+class_year_id @@@2@@@
+subject_id @@@8@@@
+num_views @@@0@@@
+examination_year @@@22@@@
+
+
+
+
+
+%%%There isn't enough rice, so its importation is <u>permitted</u> where the importation of cement is _____
+###A###
+suspended
+###B###
+licensed
+###C###
+unaccepted
+###D###
+prohibited
+###ANS###
+D
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+<br>
+###EXPLAN###
+Prohibited is the answer. It is the only option that has a legal or official angle to its meaning. Prohibited and permitted have formal connotations. Unaccepted may refer to a way of life or attitude, licensed is similar not opposite in meaning while Suspended indicates something temporary. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The cast consisted  of many <u>famous</u> actors and a few _____ one 
+###A###
+humble
+###B###
+infamous
+###C###
+unknown
+###D###
+unpopular
+###ANS###
+C
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.
+<br>
+###EXPLAN###
+Unknown is the answer. Humble will go with arrogant. Although, infamous sounds like the opposite but they both mean almost the same thing, only in different ways. While famous has a positive connotation, infamous has a negative one. Unpopular is about public acceptance and being famous is about recognition not acceptance. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>My grandfather, rather than being ____ was often quite <u>prejudiced</u> in his opinions 
+###A###
+subjective
+###B###
+discrimating
+###C###
+impartial
+###D###
+strict
+###ANS###
+C
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence. 
+<br> 
+###EXPLAN###
+Impartial is the answer. Strict derives its context in discipline not opinions while subjective is a synonym not an antonym, discriminating is the outcome of being prejudiced.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Both sides are very <u>hopeful</u> about the outcome of the peace talks, but observers are still very _______ 
+###A###
+realistic
+###B###
+emphatic
+###C###
+explicit
+###D###
+pessimistic
+###ANS###
+D
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+<br>
+###EXPLAN###
+Pessimistic is the answer. Emphatic is laying emphasis; explicit is about expressing details while realistic is about being practical.  Although realistic seems a possible answer but hopeful is to expect a positive outcome while being pessimistic is to expect a negative outcome whereas being realistic is to work with details either positive or negative.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The cleaver lawyer exposed the facts that were <u>obscure</u> in the case, making the judge see beyond the ______ 
+###A###
+open
+###B###
+obvious
+###C###
+illustration
+###D###
+reflected
+###ANS###
+B
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+###EXPLAN###
+Obvious is the answer. It denotes what is easy to see, what will not require any skill to understand unlike obscure things.  Apart from the fact that �reflected� does not belong to the group it is in past tense. �Open� has to do with space and illustration is something that clarifies or explains.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>It took me the whole day to summarize the lecturer�s <u>copious</u> notes having been used to ______ ones
+###A###
+scanty
+###B###
+illegible
+###C###
+inaccurate
+###D###
+coherent
+###ANS###
+A
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+###EXPLAN###
+Scanty is the answer. It suggests less quantity; something not much while copious means large quantity. Inaccurate goes with accurate, illegible goes with legible and coherent with incoherent.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The principal of that school was demoted for his <u>incompetence</u>  while several other several where commended for their ____ 
+###A###
+punctuality
+###B###
+honesty
+###C###
+efficiency
+###D###
+sincerity
+###ANS###
+C
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+###EXPLAN###
+Efficiency is the answer because it relates directly to work while honesty and sincerity relate to person and punctuality relates to time.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The official who <u>disclosed</u> the information he was supposed to ______  was sacked 
+###A###
+cover
+###B###
+protect
+###C###
+conceal
+###D###
+allow
+###ANS###
+C
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+###EXPLAN###
+Conceal is the answer. Allow does not belong to the group. Cover implies additional element to cover something up. Protect might seem a possible answer but while it means keeping something from being harmed conceal is keeping something from being seen. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The prosecutor argued his cases <u>vehemently</u> but the defense lawyer responded _____
+###A###
+constantly
+###B###
+feebly
+###C###
+roughly
+###D###
+hurriedly
+###ANS###
+B
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+###EXPLAN###
+Feebly is the answer. Vehemently has an embedded meaning of strength or force which feebly lacks. Roughly is not an option. Hurriedly refers to speed while constantly refers to regularity of occurrence.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>While we expected it to be gradual , the process  of transition to civilian rule come to an ______ end 
+###A###
+abrupt
+###B###
+anticipated
+###C###
+unhappy
+###D###
+unpleasant
+###ANS###
+A
+###INSTR###
+In  the following sentence, there is one underlinedd word and gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlinedd words and that will, at the same time correctly fill the gap in the sentence.  
+###EXPLAN###
+Abrupt is the answer. Anticipated does not belong to the group; it is a verb not an adjective. Unpleasant and unhappy relate more to emotions than events.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Alfred is afraid of his wife who has a very ______ size 
+###A###
+eminent
+###B###
+momentous
+###C###
+prominent
+###D###
+intimidating
+###ANS###
+D
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Intimidating is the answer. It is the only option that can collocate with afraid because they are both negative. It is also the only option that can collocate with size. Moreover, eminent relates to a position or achievement that is superior, momentous relates to importance and prominent is about position or personality that is distinguished and noticeable.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The government has imposed an _____ on the importation of used vehicles 
+###A###
+order
+###B###
+edict
+###C###
+embargo
+###D###
+act
+###ANS###
+C
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Embargo is the only option that goes with restriction. Order is more of an instruction, act is a documentation and edict, a proclamation.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The corpse has been taken to the _____ 
+###A###
+dispensary
+###B###
+mortuary
+###C###
+theatre
+###D###
+ward
+###ANS###
+B
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+All the options refer to units in the hospital but it is mortuary is the only place where corpses are kept. Dispensary is for storing and distributing medical supplies, theatre is where surgical operations are carried out and ward is the place where patients receive treatment.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>In spite of the vicissitudes of life, she never _____ from her plan 
+###A###
+evaded
+###B###
+detracted
+###C###
+deviated
+###D###
+detoured
+###ANS###
+C
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Detracted means to reduce the importance of something, evade means to explain. Although, detour means a deviation, it can also mean a route which makes option d too ambiguous to complete the sentence.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>When the solicitor told Awa to wait outside, she considered it _____ to her dignity 
+###A###
+a drawback
+###B###
+an affront
+###C###
+a strain
+###D###
+a withdrawal
+###ANS###
+B
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Dignity is about public image. A Drawback is a disadvantage, strain implies an inconvenient effort, withdrawal is a removal and none of these happen to dignity. Affront is the only option that deals with reputation because it means open insult. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The meeting cannot start because we have not formed a ____ 
+###A###
+quota
+###B###
+crowd
+###C###
+quorum
+###D###
+chorus
+###ANS###
+C
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+A crowd is not need to start a meeting neither a choir. Quota is about contribution. The only requirement for commencement of a formal meeting is that a minimum number of the members must be present: this is what quorum means.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The _____ of the asylum sang a song for the president 
+###A###
+inmates
+###B###
+occupants
+###C###
+residents
+###D###
+tenants
+###ANS###
+A
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Occupants, residents and tenants are people living somewhere out of their own volition and asylum is not a place people willingly decide to stay in.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>appointment was ______ because of irregularities in his credentials 
+###A###
+annulled
+###B###
+terminated
+###C###
+suspended
+###D###
+dismissed
+###ANS###
+B
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+To annul is to render invalid and the appointment was not invalid it only got terminated. Suspended has a subtle implication of a temporary arrangement. People are dismissed not appointments.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>seminar was held under her _____ of the Government 
+###A###
+jurisdiction
+###B###
+arbitration
+###C###
+agreement
+###D###
+auspices
+###ANS###
+D
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Jurisdiction is about a legal territory and agreement is about consent. Arbitration is a process of resolution. The only option that denotes support for the seminar is auspices.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The new car is very attractive but doubt its  _______ 
+###A###
+style
+###B###
+complexity
+###C###
+durability
+###D###
+longevity
+###ANS###
+C
+###INSTR###
+From the words lettered A to D, choose the word that best completes the following sentence.
+###EXPLAN###
+Doubt surfaces when facts are not readily available; the Style of the car and how complex it is are always obvious so doubt is not necessary; only clarification. How durable it will be is however subject to time which is not now. Longevity, how seemingly an option it may sound, is mostly associated with the lifespan of living things.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>Had it been possible to leave the country then, I would have done so.  This means that  
+###A###
+I have not left the country and nothing will make me leave
+###B###
+I wanted to leave the country and I did
+###C###
+I will definitely leave the country one day
+###D###
+I would have liked to leaved the country but I wasn�t able to
+###ANS###
+D
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for sentence
+###EXPLAN###
+The statement addresses the impossibility of leaving the country despite the speaker�s desire to do so. Option A states a desire to stay in the country regardless of, option B states a desire that materialized. Option C might be similar but a possible meaning is that the speaker has never tried getting out of the country which is contrary to the original sentence. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The proprietor and his accountant have had a running battle over the last financial report. This means that they have had 
+###A###
+an argument which developed into a fight
+###B###
+a series of argument on the report
+###C###
+to work hard to complete the report
+###D###
+difficulties understanding the report
+###ANS###
+B
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for each sentence.
+###EXPLAN###
+A running battle is metaphorical expression for an argument that keeps recurring not necessarily that it developed into a fight. It does not mean that the two parties are working hard or having difficulties.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Unless you don�t want to become a teacher, there�s no reason for not accepting the sponsorship. This means that you should. 
+###A###
+not refuse the sponsorship if you went to become a teacher
+###B###
+refused the sponsorship if  you want to become a teacher
+###C###
+not refuse the sponsorship if you don�t want to become a teacher
+###D###
+refuse the sponsorship whether you want to be a teacher  or not
+###ANS###
+A
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for sentence
+###EXPLAN###
+The scholarship is either important or compulsory for teachers or intending teachers and a refusal simply means the teaching profession does not hold an attraction for the recipient of the scholarship.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>His chances of passing are very slim. This means that the 
+###A###
+will pass
+###B###
+will not pass
+###C###
+many not pass
+###D###
+ought to pass
+###ANS###
+C
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for sentence
+###EXPLAN###
+When chances are slim, the probability rate is higher on the negative but it is still a possibility,  nothing is certain. He may pass or not. Options A and B expresses certainty which is not in the original sentence and option D also expresses probability but more on the positive side because it connotes duty or obligation. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>We would never have followed his advice if we had known his reputation. This mean that we 
+###A###
+knew what people said about him so we refuse to obey him
+###B###
+trusted him but did not need any advice
+###C###
+followed his advice because we didn�t known him
+###D###
+trusted him but did not take his advice
+###ANS###
+C
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for sentence
+###EXPLAN###
+It is a statement of regret. The man�s reputation was not known until it was too late and the people have been deceived. Option A is out because the people did not know, option B is out because they actually needed advice but did not get it and option D is also out because they trusted him and took his advice.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>All the handsome men left her cold. This mean that 
+###A###
+she needed to wear warm clothes
+###B###
+the men took no notice of her
+###C###
+she was not impressed by them
+###D###
+she felt sad and lonely 
+###ANS###
+B
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for sentence
+###EXPLAN###
+Left her cold is figurative and does not refer to body temperature so option A is out. To leave somebody out in the cold is not to allow someone to become part of a group or an activity and this is best expressed by option B.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Sulayman can�t help shouting at the members of his team. This means that he
+###A###
+cannot help them without shouting at them
+###B###
+can�t help them and can�t stop shouting
+###C###
+can�t control his emotions and keeps shouting
+###D###
+help them by cheering them
+###ANS###
+C
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for each sentence
+###EXPLAN###
+The team members keep getting Sulayman annoyed and since he can�t control his emotions, he always shouts.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Out of the blue came his letter inviting me to stay with him. This means that the letter comes
+###A###
+by air
+###B###
+in a blue envelope
+###C###
+came unexpectedly
+###D###
+by sea
+###ANS###
+C
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for sentence
+###EXPLAN###
+Out of the blue is a figurative expression that describes something that is unexpected, It has nothing to do with the channel the letter came through; either air or sea neither is it about the colour of the envelope it came in.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>Femi spends precious time building castles in the air. This means that Femi 
+###A###
+wants to build castles
+###B###
+thinks of impracticable things
+###C###
+is a designer of castles
+###D###
+has made a lots of money
+###ANS###
+B
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for each sentence
+###EXPLAN###
+Castles in the air cannot stand. They are practically impossible. This expression describes unrealistic and impractical projects is.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Considering his huge salary, the director ought to have built a house by now. This means that the director 
+###A###
+is not satisfied with his salary
+###B###
+has not built a house yet
+###C###
+earns a lot but his house is still not ready
+###D###
+does not have enough money to build a house
+###ANS###
+B
+###INSTR###
+After the following sentence, a list of possible interpretation is given.  Choose the interpretation that you consider most appropriate for each sentence.
+###EXPLAN###
+It means that the director earns good salary but he hasn�t built a house yet. That the house is not ready implies that he has already started and there is no indication of this in the sentence. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Nowadays, children are given much more <u>latitude</u> than before 
+###A###
+advice
+###B###
+freedom
+###C###
+luxury
+###D###
+variety
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+
+###EXPLAN###
+Freedom to make choices is the meaning of latitude so freedom is the answer. Luxury might be embedded in latitude but they are not synonyms. Advice and variety mean other things entirely.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>My neighbor lives a humdrum life.
+###A###
+buys
+###B###
+careless
+###C###
+monotonous
+###D###
+humble
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+Monotonous and humdrum mean the same thing-being dull and uninteresting because something is unvaried or monotonous. Living a humble life might also connote such but not necessarily. Careless and buys do not belong to the group.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The manager described the new accountant as a man of <u>impeccable</u> character 
+###A###
+serious
+###B###
+dangerous
+###C###
+faultless
+###D###
+rigid
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+Of course to be serious must be one of the attributes of someone with an impeccable character but �impeccable� means so much more which only faultless can cater for in this list.  Rigid is more negative than positive and dangerous does not belong to the group. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The teacher sends the boy out of the class for his <u>impertinence</u>
+###A###
+timidity
+###B###
+indifference
+###C###
+rudeness
+###D###
+cheating
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+The answer is C. Indifference and cheating might be part of the boy�s impertinence but they are not direct synonyms. Timidity is a different case entirely.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>This book is the <u>abridged</u> version of the original 
+###A###
+edited
+###B###
+detailed
+###C###
+shortened
+###D###
+revised
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+When a book is edited or revised it doesn�t necessarily becomes shortened. Detailed is opposite and not similar in meaning.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>After the riot, the street were blocked with <u>charred</u> vehicle
+###A###
+destroyed
+###B###
+vandalized
+###C###
+broken
+###D###
+burnt
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+A charred vehicle is destroyed, vandalized, broken but the most important detail is that it�s blackened because it is burnt.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The thief�s jail terms are to run <u>concurrently</u> 
+###A###
+consecutively
+###B###
+alternatively
+###C###
+immediately
+###D###
+simultaneously
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+When something happens concurrently it does not mean it happens consecutively it only happens simultaneously.  Alternatively is choosing one instead while immediately does not belong to the group.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The rapper�s popularity is beginning to <u>wane</u>  
+###A###
+disappear
+###B###
+change
+###C###
+disperse
+###D###
+decline
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+Popularity does not disappear, change or disperse. Again, these are not directly synonyms to wane as decline is.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The doctors told his patient about all things that could <u>impair</u> his health 
+###A###
+attack
+###B###
+terminate
+###C###
+damage
+###D###
+reduce
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+Attack is aggressive, terminate is final, reduce is not accurate but impair and damage can relate more to one�s health because they both refer to a reduction in the quality of something.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The fat old woman looked <u>comical</u> in those trousers
+###A###
+shabby
+###B###
+ridiculous
+###C###
+strange
+###D###
+awkward
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D below the following sentence, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence
+###EXPLAN###
+A comical dressing could be awkward, strange and shabby but ridiculous is the appropriate synonym because of the amusing side of it.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>When I arrived, I noticed that he _______ the kitchen 
+###A###
+had swept
+###B###
+has swept
+###C###
+is swept
+###D###
+will swept
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The tense of the sentence is past participle and so the major verb and the auxiliary verb must reflect that.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>He was dismissed because he _______ the cheque. 
+###A###
+must not issue
+###B###
+ought not to issue
+###C###
+should not have issued
+###D###
+will have issued
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Although options B and C  seem likely, but �should� is subsumed in �ought� because ought deals more with obligation. A and D  do not agree with the tense of �dismissed�
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Is there ______ chalk in the classroom? 
+###A###
+a
+###B###
+any
+###C###
+many
+###D###
+plenty
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�A� is an indefinite article which implies picking out of the many available. Any, plenty and many are adjectives but it is only �any� that is accurate because it is not specific. Many and plenty cannot be used with a singular �chalk�.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The last election resulted _____ a disaster for the socialist party 
+###A###
+in
+###B###
+to
+###C###
+into
+###D###
+through
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+They are all prepositions but �in� is the only option that indicates something that happens, �into� and �through� indicates movement, �to� indicates direction.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The family _____ the dinner when I knocked at the door 
+###A###
+is having
+###B###
+was having
+###C###
+had
+###D###
+has had
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The past continuous tense is the grammatical tense used to describe an action which someone was doing or an event which was happening at a particular time. It is made with 'was' or 'were' and the -ing form of a verb. Option B is the only one that reflects this tense of the sentence. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>All ______ the president said was reported in the dailies
+###A###
+what
+###B###
+which
+###C###
+that
+###D###
+those
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�That� identifies something or somebody. It is an identity marker, although �those� can also fit in; it is only in a plural context.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Which of the two questions is ______? 
+###A###
+most difficult
+###B###
+the much difficult
+###C###
+the most difficult
+###D###
+more difficult
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+More is a comparative form of an adjective that indicates degree between two options only. When more than two entities are compared, �most� is the appropriate form to be employed. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>If it rains, the exhibition will be cancelled ______ 
+###A###
+wouldn�t it 
+###B###
+isn�t it
+###C###
+won�t it
+###D###
+can�t it
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+
+###EXPLAN###
+These kinds of questions are known as question tags. For question tags, the second part of the sentence must employ the same verbal elements used in the first part of the sentence. In this case it is �will�. This eliminates options A, B and D. The verbs used must also contrast the state of the verbs. If the first is positive, the second must be negative. �will� is positive, therefore the answer must be negative. This leaves us with C as the correct answer which can also be written as �will not it�.
+Question tags are a peculiar set because the preceding verb must be used in the tag succeeding the statement. So in this case, will is used and so the answer is option C
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The rent is too high ______ the house is not in suitable location 
+###A###
+therefore
+###B###
+besides
+###C###
+nevertheless
+###D###
+in as must as
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The first part of the sentence states a reason but the second part is stating the most important reason. Option B is the answer. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>It is about time your brother ______ some attention to his English
+###A###
+pays
+###B###
+is paying
+###C###
+paid
+###D###
+had paid
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+When the expression �about time� or �high time� is used, the verb employed must be in the past. The answer thus is �C�. If it is about time/high time that someone did something, it should have been done sooner or a long time ago.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The ______ toys have all been all stolen 
+###A###
+children
+###B###
+childrens
+###C###
+childrens'
+###D###
+children's
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+There is a distinction between the plural marker (s) and the possessive (�s). The first is used to show plurality but the word �children� is already in the plural therefore adding (s) is unacceptable. The second shows possession or ownership which is the context that the sentence implies here. Option C is also wrong because it is only words already ending in (s) that would require the deletion of the other �s�.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Olu passed his examination ________  he was a determined student
+###A###
+although
+###B###
+because
+###C###
+unless
+###D###
+when
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+His determination was the reason for his success and �because� always indicate the reason for something.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>Your friend and mentor ____ his speech
+###A###
+has finished
+###B###
+is to be finished
+###C###
+have finished
+###D###
+was finished
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Option A is the answer.  The phrase refers to one person because of the use of one �your�. �Your friend and your mentor� would have referred to two people.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>______ of you does this money belong to 
+###A###
+whom
+###B###
+whose
+###C###
+who
+###D###
+which
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�Which� is the option that identifies the owner among many possible people that may own the money. The sentence can be rewritten as �the money belongs to (which) of you.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>One of the window panes _____ yesterday 
+###A###
+were breaking
+###B###
+was broken
+###C###
+is to be breaking
+###D###
+have broken
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The subject of the sentence is singular, �one of the window panes�. This takes out option A and D. Option C must also be taken out because it is ungrammatical. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>No child _____ have drawn that picture 
+###A###
+can
+###B###
+will
+###C###
+could
+###D###
+may
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+
+###EXPLAN###
+The issue here is the capacity of the child; �can� relates directly to ability and could is the past tense of can. It is thus the answer. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>The referee contemplated _______ the players off the pitch 
+###A###
+to send
+###B###
+to sending
+###C###
+sending
+###D###
+to be sending
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The simple continuous tense of a verb can also be employed to convey an action that the subject intends to carry out in the future.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The old woman passed ______ when she heard of the robbery 
+###A###
+out
+###B###
+by
+###C###
+off
+###D###
+through
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+To pass out is to faint as a result of sickness or shock.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The First lady wore a ______  ring to the reception 
+###A###
+very expensive gold glittering
+###B###
+gold very expensive glittering
+###C###
+very expensive glittering gold
+###D###
+gold very glittering expensive
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+In the ordering of adjectives, adjectives that describe feelings or qualities come first then adjectives of size or age. The next are adjectives of colour followed by adjectives of nationality or origin. Following these would be adjectives, denoting substance or material and finally adjectives of purpose or use. Before we evoke this rule, �very� must come first because it is an adverb that indicates intensity. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The new road was completed on schedule ________ the difficulties involved 
+###A###
+although
+###B###
+despite
+###C###
+besides
+###D###
+however
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�Despite� indicates something done when there are enough obstacles. �Although� will fit in if the sentence is re-arranged. �Besides� and �however� do not translate into the same meaning.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>________ of this evidence made no sense 
+###A###
+many
+###B###
+few
+###C###
+much
+###D###
+more
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Much is the comparative suitable for the sentence. It means a large amount of the evidence does not make sense.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The celebrations were rounded _______ with a firework display 
+###A###
+up
+###B###
+out
+###C###
+off
+###D###
+down
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�Round up� means to gather people or animals in a place, round out means to achieve more complete and satisfactory form, round down is to express a number as a smaller number. �Round off� is the only option that indicates bringing an event to an end especially.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The members of the association were advised to cooperate with ______ 
+###A###
+one other
+###B###
+each other
+###C###
+themselves
+###D###
+one to the other
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+One another means each of the several members of the group to the others. Although each other seem appropriate but the traditional rule is that each other refers to two people and �one another� is used when more than two people are being referred to.
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The robe is _______ long for the short minister 
+###A###
+rather
+###B###
+much
+###C###
+very
+###D###
+quite
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�Rather� and �quite� seem like perfect examples but option A is the answer. Quite means �completely� while �rather� means �to a slight degree� 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The professors said that Ade was ______ 
+###A###
+a great student of potential
+###B###
+a student of great potential
+###C###
+a potential student
+###D###
+of potential student
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+
+###EXPLAN###
+�of� is a preposition  that gives information about a preceding noun. The information is �potential� and so the preceding noun should be student. A potential student is not a student yet while of potential student does not make any sense.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>His father saw _______ that Andrew got all the answer wrong 
+###A###
+in a glance
+###B###
+by a glance
+###C###
+with a glance
+###D###
+at a glance
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The accuracy of prepositions is in what they indicate. �in� indicates to be inside something, �by� indicates a closeness and �with� indicates involvement. �at� is the only preposition that indicates manner and glance is a manner of looking at something; briefly. When something is looked at briefly it is at a glance not with a glance.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>His father asked me if l would like to go to Las Palmas for a holiday and said  I ____
+###A###
+will
+###B###
+could
+###C###
+would
+###D###
+like
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�Would� is a modal verb that expresses a person�s will in a polite way. Since �would� has been used in the first sentence it is also the required in the response just like question tags that select its verb based on the preceding verb.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>Ali dropped the pot accidently and it  ________ 
+###A###
+was breaking
+###B###
+broke
+###C###
+breaks
+###D###
+has broken
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The first verb �dropped� is past tense and it selects a past tense in all the other verbs in the sentence. �Broke� is the only option in past tense and that obviously makes it the answer.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+
+<br>Every man, woman and child _______ home 
+###A###
+were
+###B###
+are
+###C###
+was
+###D###
+have
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Every is not a collective adjective, it refers to each member of a group and that makes it singular so it�s verb must be singular and �was� is the only singular option.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>That sack is ________ heavy for us to lift 
+###A###
+very
+###B###
+so
+###C###
+too
+###D###
+quite
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Options A, B and D could be appropriate if the sentence stops at heavy but since the weight of the load is qualified in proportion to the strength of those who are to carry it, option C becomes accurate. �Too� implies �an excess�
+
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>If the school had been destroyed we _______ home 
+###A###
+would go
+###B###
+would have had to go
+###C###
+would have to go
+###D###
+would be going
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The past participle tense of the first part of the sentence invariably picks a past participle verb in the second part of it and that makes option b the appropriate answer
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>The plane took off ________ 
+###A###
+since five minutes
+###B###
+five minutes ago
+###C###
+in the past five minutes 
+###D###
+by five minutes
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�in� and �by� indicate position and since indicates period 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+<br>By Christmas, I _______ for one year 
+###A###
+shall have been working
+###B###
+was working
+###C###
+shall work
+###D###
+have worked
+###ANS###
+A
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Option a accurately describes continuity. The speaker has not stopped working and has no intention to. It is only a statement of evaluation. This tense is known as future perfect continuous 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>As they _______ the thieves broke into the house 
+###A###
+had slept
+###B###
+are sleeping
+###C###
+have been sleep ###D###
+were sleeping
+###ANS###
+D
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�as� is a continuous marker, �broke� is in past tense so the option has to be in past continuous tense and it is only option D that meets the requirement.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>Ali and the children were inoculated______ polio 
+###A###
+from
+###B###
+by 
+###C###
+against
+###D###
+for
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+�against� is the only preposition that means to do something to counter someone or something. Polio is not a desirable condition so anything done that relates to it is done to prevent children against it
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>This plane is an alternative _______ the last one 
+###A###
+from
+###B###
+to
+###C###
+on
+###D###
+against
+###ANS###
+B
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+The sentence is comparing �this plane� and �the last one� and �to� is a preposition that indicates comparison.
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
+
+<br>________ Ali did not win the election, he has continued to award scholarships to less privileged. 
+###A###
+nevertheless
+###B###
+however
+###C###
+although
+###D###
+despite
+###ANS###
+C
+###INSTR###
+From the words or group of word lettered A to D, choose the word  or group of word that best completes the following sentence.
+###EXPLAN###
+Although literarily means �notwithstanding that� or �in spite of the fact that�. So its use cancels the insertion of any adjective which the other options require. 
+###TOPIC###
+
+###CLASS###
+
+###IMAGE###
+
+###EXPLANIMG###
+
+@@@NEXT@@@
+
